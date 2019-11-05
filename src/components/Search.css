@@ -1,0 +1,15 @@
+.Search {
+  input {
+    line-height: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  button {
+    text-transform: uppercase;
+    padding: 5px;
+    background-color: darkcyan;
+    color: white;
+    font-size: 16px;
+    display: block;
+  }
+}

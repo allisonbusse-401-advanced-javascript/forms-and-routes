@@ -1,0 +1,25 @@
+.Header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    text-align: center;
+    font-size: 48px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: darkcyan;
+  padding: 6px 0;
+  margin-bottom: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}

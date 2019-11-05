@@ -1,0 +1,16 @@
+.ListItem {
+  list-style: none;
+  background-color: lightsalmon;
+  margin-right: 15px;
+  padding-bottom: 10px;
+}
+    a:visited {
+      color: darkslategray;
+    }
+
+    a {
+      color: darkslategray;
+    }
+    p {
+      text-align: center;
+    }
