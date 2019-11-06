@@ -4,11 +4,11 @@ import {
   Switch,
   Route
 } from 'react-router-dom';
-import Header from './Header';
-import Footer from './Footer';
+import Header from './Header/Header';
+import Footer from './Footer/Footer';
 import Home from '../containers/Home';
 import List from '../containers/List';
-import CharacterDetail from './CharacterDetail';
+import CharacterDetail from './CharacterDetail/CharacterDetail';
 
 export default function App() {
   return (

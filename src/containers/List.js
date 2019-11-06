@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import styles from './List.css';
-import ListItem from '../components/ListItem';
+import ListItem from '../components/ListItem/ListItem';
 import { getSearchedCharacters } from '../services/api-call';
 
 class List extends Component {

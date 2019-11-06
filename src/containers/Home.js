@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Character from '../components/Character';
-import Search from '../components/Search';
+import Character from '../components/Character/Character';
+import Search from '../components/Search/Search';
 import PropTypes from 'prop-types';
 import styles from './Home.css';
 import { getCharacter } from '../services/api-call';
