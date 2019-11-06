@@ -5,7 +5,7 @@ This lab uses the Last Airbender API to get a random character or allow the user
 
 ### Links and Resources
 * [submission PR](https://github.com/allisonbusse-401-advanced-javascript/forms-and-routes/pull/1)
-* [travis](https://travis-ci.com/allisonbusse-401-advanced-javascript/resty-app/)
+* [travis](https://travis-ci.com/allisonbusse-401-advanced-javascript/forms-and-routes/builds/135173982)
 
 
 
